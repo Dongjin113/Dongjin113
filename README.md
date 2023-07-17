@@ -1,4 +1,6 @@
 ### Hi there 👋
+### 방가워요
+### 이동진입니다
 
 <!--
 **Dongjin113/Dongjin113** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
